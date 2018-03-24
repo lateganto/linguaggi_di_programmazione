@@ -1,0 +1,7 @@
+S>aB
+B>bB
+B>
+B>aA
+A>
+A>aA
+A>bB
